@@ -11,7 +11,7 @@ public class Main {
         double left = 0, right = w*n;
         q=(left+right)/2;
         while(!((q/w==0)||(q/h==0))){
-            
+            //blah!
         }
     }
 }
